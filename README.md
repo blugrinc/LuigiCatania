@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning the basic technologies to become a good WebDeveloper
 
 - 👨‍💻 All of my projects are available at [https://github.com/blugrinc](https://github.com/blugrinc)  
-<sub>They are divided into two organisations, visible at the bottom left. </sub>
+<sub>They are divided into two organizations, visible at the bottom left. </sub>
 
 - 💞️ I’m always ready to have new experiences and to meet new people and learn new things.
 
